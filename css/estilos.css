@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://blog.hdwallsource.com/wp-content/uploads/2014/11/free-gradient-wallpaper-26032-26717-hd-wallpapers.jpg');
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center; 
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
